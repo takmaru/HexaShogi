@@ -2,6 +2,7 @@
 *.slo
 *.lo
 *.o
+*.ipch
 
 # Compiled Dynamic libraries
 *.so
@@ -11,3 +12,15 @@
 *.lai
 *.la
 *.a
+
+# Solution files
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+
+# Compiled Files
+*/Debug/*
+*/Release/*
+Debug/*
+Release/*
